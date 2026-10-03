@@ -3,7 +3,7 @@
   "updated": "2026-09-30",
   "title": "Predicted & Trending Questions",
   "notes": "Practice items on recent laws and topics likely to appear in upcoming CSE-PPT schedules. These are predictions based on the published exam coverage, not leaked questions.",
-  "access": ["bf41b52518c04c1eec07afd2b05b98c771bbe5405ee4ea2c0db9f44eeed89d34"],
+  "access": ["bf41b52518c04c1eec07afd2b05b98c771bbe5405ee4ea2c0db9f44eeed89d34", "fe11062da4dfbf10702029478d0bc06f398bd47a1ecfb899ef83c5a03b6ebec5"],
   "questions": [
     {"id":"on-001","s":"gen","t":"New Laws","q":"Which law replaced the Government Procurement Reform Act (RA 9184) in 2024?","c":["RA 12009 – New Government Procurement Act","RA 11032 – Ease of Doing Business Act","RA 11466 – Salary Standardization Law V","RA 10173 – Data Privacy Act"],"x":"<b>RA 12009</b>, the New Government Procurement Act (2024), repealed and replaced RA 9184 (2003). It modernizes public procurement with tools like e-marketplaces and more procurement methods."},
     {"id":"on-002","s":"gen","t":"New Laws","q":"The law requiring the registration of all SIM cards in the Philippines is:","c":["RA 11934","RA 10175","RA 11055","RA 10173"],"x":"<b>RA 11934</b>, the SIM Registration Act (2022), requires end-users to register their SIMs to curb text and online scams. RA 10175 is the Cybercrime Prevention Act; RA 11055 is the PhilSys Act; RA 10173 is the Data Privacy Act."},
